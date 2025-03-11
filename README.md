@@ -8,9 +8,13 @@ A simple Tic-Tac-Toe game built using Flutter. Play against a friend or an AI op
 
 Features
 ✅ Single-player mode (with AI)
+
 ✅ Two-player mode (local multiplayer)
+
 ✅ Clean and responsive UI
+
 ✅ Winning logic implementation
+
 ✅ Restart and reset functionality
 
 ### Screenshots
